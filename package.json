@@ -1,0 +1,18 @@
+{
+  "name": "boligportal_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "objects-to-csv": "^1.3.6",
+    "puppeteer-google-scraper": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
+}
