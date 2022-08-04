@@ -1,0 +1,57 @@
+Predict difficulcy
+
+COGNITIVE LAOD
+
+	XGBOOST - cognitive-load
+	Classification accuracy : 0.6000
+	Precision : 0.5588
+	Recall or Sensitivity : 0.8636
+	F1 : 0.6786
+
+	random foreset 
+	Classification accuracy : 0.5778
+	Precision : 0.5545
+	Recall or Sensitivity : 0.6932
+	F1 : 0.6162
+
+
+	SVM 
+	Classification accuracy : 0.6000
+	Precision : 0.5588
+	Recall or Sensitivity : 0.8636
+	F1 : 0.6786
+
+	NAIVE
+	Classification accuracy : 0.5778
+	Precision : 0.5517
+	Recall or Sensitivity : 0.7273
+	F1 : 0.6275
+
+ALPHA THETA
+
+BEST MODEL: RandomForestClassifier(max_depth=100, min_samples_split=10, n_estimators=500)
+
+
+XGBOOST
+Classification accuracy : 0.6611
+Precision : 0.6517
+Recall or Sensitivity : 0.6591
+F1 : 0.6554
+
+rANDOM FOREST
+Classification accuracy : 0.7111
+Precision : 0.6765
+Recall or Sensitivity : 0.7841
+f: 0.7263
+
+SVMClassification accuracy : 0.6778
+Precision : 0.6250
+Recall or Sensitivity : 0.8523
+F1 : 0.7212
+
+naive bayes
+Classification accuracy : 0.6611
+Precision : 0.6098
+Recall or Sensitivity : 0.8523
+F1 : 0.7109
+
